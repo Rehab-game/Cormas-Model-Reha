@@ -1,6 +1,6 @@
 Class {
 	#name : #ParkManager,
-	#superclass : #Object,
+	#superclass : #CMAgent,
 	#instVars : [
 		'zones',
 		'reserve',

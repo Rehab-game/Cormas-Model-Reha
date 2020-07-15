@@ -1,6 +1,6 @@
 Class {
 	#name : #ReHab,
-	#superclass : #Object,
+	#superclass : #CMAbstractModel,
 	#instVars : [
 		'nbFamilies',
 		'theBirds',

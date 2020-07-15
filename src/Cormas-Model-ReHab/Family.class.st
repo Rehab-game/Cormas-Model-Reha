@@ -1,6 +1,6 @@
 Class {
 	#name : #Family,
-	#superclass : #Object,
+	#superclass : #CMAgent,
 	#instVars : [
 		'color',
 		'label',

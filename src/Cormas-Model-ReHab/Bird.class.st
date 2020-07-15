@@ -1,6 +1,6 @@
 Class {
 	#name : #Bird,
-	#superclass : #Object,
+	#superclass : #CMAgentLocation,
 	#instVars : [
 		'testReproduction',
 		'mySpaceUnits',

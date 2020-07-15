@@ -1,6 +1,6 @@
 Class {
 	#name : #Strategy,
-	#superclass : #Object,
+	#superclass : #CMPassiveObject,
 	#instVars : [
 		'holder',
 		'locations'

@@ -1,6 +1,6 @@
 Class {
 	#name : #Zone,
-	#superclass : #Object,
+	#superclass : #CMSpatialEntityElement,
 	#instVars : [
 		'access',
 		'noHarvestPeriod',
